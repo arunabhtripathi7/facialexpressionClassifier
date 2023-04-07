@@ -70,3 +70,9 @@ def main(): # main function is defined
 # This function ensures that the main function only executes when the scrip runs directly
 if __name__ == '__main__':
     main()
+#references: OpenCV Library, OpenCV Library, 2015. http://opencv.org.
+#"Walt, S., Colbert, S. C., & Varoquaux, G. (2011). The NumPy Array: A Structure for Efficient Numerical Computation. Computing in Science & Engineering, 13(2), 22–30. https://doi.org/10.1109/mcse.2011.37"
+#"Pedregosa, F. et al. Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research 12, 2825–2830 (2011)."
+#Chollet, F. et al. Keras. https://keras.io (2015)."
+#Kingma, D. P., & Ba, J. (2014). Adam: A Method for Stochastic Optimization. arXiv preprint arXiv:1412.6980
+#Bishop, C. M. (2006). Pattern Recognition and Machine Learning. Springer, New York, NY, USA.
