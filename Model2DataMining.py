@@ -90,3 +90,9 @@ plt.ylabel('Loss') # Sets label for y-axis as "Loss"
 plt.xlabel('Epoch') # Sets label for x-axis as "Epoch"
 plt.legend(['Train', 'Val'], loc='upper left') # Adding leged with labels as "Train" and "Val" and sets it at upper left 
 plt.show() # Shows the plot
+#References: matplotlib: Hunter, J.D. "Matplotlib: A 2D Graphics Environment", Computing in Science & Engineering, Vol. 9, No. 3, pp. 90-95, May/June 2007, doi:10.1109/MCSE.2007.55
+#TensorFlow: Martín Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen, Craig Citro, Greg S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael Isard, Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur, Josh Levenberg, Dan Mané, Mike Schuster, Rajat Monga, Sherry Moore, Derek Murray, Chris Olah, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda Viégas, Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng. TensorFlow: Large-scale machine learning on heterogeneous systems, 2015. Software available from tensorflow.org.
+#Keras API: Chollet, F. (2015). Keras. https://keras.io.
+#NumPy: Oliphant TE. A guide to NumPy, USA: Trelgol Publishing; 2006. ISBN 978-0-9768009-7-3.
+#SciPy: Jones E, Oliphant T, Peterson P, et al. SciPy: Open source scientific tools for Python, 2001-. http://www.scipy.org/
+#PIL: Clark, J., Warmerdam, G. (1999). The Python Imaging Library (PIL). Pythonware. Available at https://github.com/python-pillow/Pillow.
